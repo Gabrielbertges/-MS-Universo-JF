@@ -6,3 +6,5 @@ MANUTENÇÃO DE SOFTWARE
                       PROF. BRUNO ZONOVELLI
 
                         2019.2 - <<GABRIEL BERTGES>
+
+Motivação para seguir como analista de sistema: FAZER CONCURSOS
